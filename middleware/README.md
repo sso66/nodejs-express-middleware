@@ -1,6 +1,4 @@
-/* README.md - middleware Markdown file */
-
-Implementing Express Middleware "Stock Exchange | Market Place Metaphors"
+## Implementing Express Middleware "Stock Exchange | Market Place Metaphors"
 
 1. Understanding Middleware
 	1.1 Assigning Middleware Global to a Path (Set of Routes!)
