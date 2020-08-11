@@ -1,8 +1,8 @@
 ## Implementing Express Middleware "Stock Exchange | Market Place Metaphors"
 
-1. Understanding Middleware
-	1.1 Assigning Middleware Global to a Path (Set of Routes!)
-	1.2 Assigning Middleware to a Single Route
+- Understanding Middleware
+  - Assigning Middleware Global to a Path (Set of Routes!)
+  - Assigning Middleware to a Single Route
 	1.3 Adding Multiple Middleware Functions
 	
 2. Using the query Middleware
