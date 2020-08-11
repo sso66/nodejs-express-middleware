@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Test page</title>
+		<meta charset="utf-8">
+		<link href="app/vendors/bootstrap-3.3.2/dist/css/bootstrap.css" rel="stylesheet"/>  		
+		<link href="app/styles/wireframe.css" rel="stylesheet"/>  
+	</head>
+	<body ng-app> 
+		<div class="container-fluid">
+			<h1>Test page</h1>
+			<header><img src="app/images/octalhex.gif">Header</header>
+			<div id="main">Main Content
+				<div class="ui-widget">
+					<div class="ui-widget-header">				
+						<h2>MVC/S - AngularJS Final Take: HTML/CSS/JS</h2>
+						<h3>UIView + UIControl Components: HTML Partial Page | Modal Dialog | Widget/Plugin</h3>
+					</div>
+					<div class="ui-widget-content">
+				 		<div ng-controller="UIViewController">
+				 			<p>{{greeting.text}}</p>
+				 		</div>
+					</div>
+				</div>
+			</div>
+			<nav>Navigation Bar</nav>
+			<aside>Toolbar</aside>
+			<footer>Footer</footer>
+		</div><!-- bootstrap.css - block formatted context -->
+		<script src="app/scripts/angular.js"></script>
+ 		<script src="app/scripts/zcontrollers/ui_hello_view_controller.js"></script>
+  		<script>
+   			function UIViewController($scope) {
+				$scope.greeting = { text: "Hello World!" }
+			}
+		</script>
+	</body>
+</html>
