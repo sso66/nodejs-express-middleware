@@ -1,8 +1,8 @@
 ## Implementing Express in Node.js 
 
 1. Getting Started with Express
-  1.1 Configurating Express Settings
-  1.2 Starting the Express Server
+  - 1.1 Configurating Express Settings
+  - 1.2 Starting the Express Server
 	
 2. Configurating the Routes
   2.1 Implementing Routes
