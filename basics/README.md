@@ -1,6 +1,6 @@
 ## Implementing Express in Node.js 
 
-1. Getting Started with Express
+- 1. Getting Started with Express
   - 1.1 Configurating Express Settings
   - 1.2 Starting the Express Server
 	
