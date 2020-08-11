@@ -1,6 +1,4 @@
-/* README.md - basics Markdown file */
-
-Implementing Express in Node.js 
+### Implementing Express in Node.js 
 
 1. Getting Started with Express
 	1.1 Configurating Express Settings
