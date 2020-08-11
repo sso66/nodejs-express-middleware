@@ -31,7 +31,7 @@
   - Rendering Templates in a Response
 
 - Summary
-  #### Lessons Learned on the basics of getting Express installed, configured, and running for the Node.js applications:
+  - **Lessons Learned on the basics of getting Express installed, configured, and running for the Node.js applications:**
   - How to configure routes to handle HTTP requests
   - How to use Request object to get information about the request.
   - How to configure the headers and status for the Response Object and then send HTML strings, files and rendered templates.
