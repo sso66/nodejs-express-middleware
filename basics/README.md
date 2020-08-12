@@ -7,11 +7,11 @@
 - Configurating the Routes
   - Implementing Routes
   - Applying Parameters in Routes
-    - Applying Route Paratemers Using Query Strings
-    - Applying Route Paratemers Using Regex
-    - Applying Route Paratemers Using Defined Parameters
+    - Applying Route Parameters Using Query Strings
+    - Applying Route Parameters Using Regex
+    - Applying Route Parameters Using Defined Parameters
     - Applying Callback Function for Defined Parameters
-  - Applying Route Paramentes Example		
+  - Applying Route Parameters Example		
 
 - Using Request Objects
 	
