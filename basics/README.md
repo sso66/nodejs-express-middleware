@@ -1,4 +1,4 @@
-## Implementing Express in Node.js 
+## Using Express to Make Life Easier
 
 - Getting Started with Express
   - Configurating Express Settings

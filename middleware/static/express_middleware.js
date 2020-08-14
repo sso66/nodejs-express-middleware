@@ -1,5 +1,6 @@
 /* express_middleware.js */
 /* Implementing custom middleware to remove the query string from the Request object */
+
 var express = require('express');
 var app = express();
 function queryRemover(req, res, next){

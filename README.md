@@ -1,2 +1,4 @@
 # nodejs-express-middleware
-Express Middleware in Node.js
+## Using Express to Make Life Easier
+## Implement Express Middleware 
+### Node.js Web Development by Brad Dayley
