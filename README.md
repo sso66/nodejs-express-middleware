@@ -1,4 +1,5 @@
 # nodejs-express-middleware
-## Using Express to Make Life Easier
-## Implement Express Middleware 
+## A. Using Express to Make Life Easier
+## B. Implementing Express Middleware
+## C. Building Practical Web Application Components
 ### Node.js Web Development by Brad Dayley
