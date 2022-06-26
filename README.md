@@ -1,5 +1,13 @@
 # nodejs-express-middleware
-## A. Using Express to Make Life Easier
-## B. Implementing Express Middleware
-## C. Building Practical Web Application Components
-### Node.js Web Development by Brad Dayley
+## Implementing Express Middleware
+- Understanding Middleware
+- Using the `query` Middleware
+- Serving Static Files
+- Handling `POST` Body Data
+- Sending and Receiving Cookies
+- Implementing Sessions
+- Applying Basic HTTP Authentication
+- Implementing Sessions Authentication
+- Creating Custom Middleware
+- Summary 
+- Up Next
