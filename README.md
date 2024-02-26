@@ -10,4 +10,4 @@
 - Implementing Sessions Authentication
 - Creating Custom Middleware
 - Summary 
-- Up Next
+- Up Next: Setup Live Coding Environments & Real-World Examples
