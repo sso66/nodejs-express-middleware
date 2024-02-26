@@ -33,5 +33,5 @@
 - Up Next 
   - Jumping into the world of React JSX
   - Getting an over of the design and intent of the React JSX
-  - Learning where it fits in the Node.js and CouchDB stack 
+  - Learning where it fits in the Node.js and Redis stack 
   - How to begin implementing in the Isomorphic Web 2.0 App projects
